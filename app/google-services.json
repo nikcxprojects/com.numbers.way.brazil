@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425564134007",
+    "project_id": "comnumberswaybrazil",
+    "storage_bucket": "comnumberswaybrazil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425564134007:android:5689b1a4e357c895178472",
+        "android_client_info": {
+          "package_name": "com.numbers.way.brazil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425564134007-mcrs6ev1qftik3hn3fs5qfi23cut2mno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_11vlosegBxITeiZHCmdb50dcepN9ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425564134007-mcrs6ev1qftik3hn3fs5qfi23cut2mno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
