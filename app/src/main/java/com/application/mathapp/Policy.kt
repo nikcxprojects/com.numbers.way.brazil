@@ -81,7 +81,7 @@ class Policy : AppCompatActivity() {
                 web.loadUrl("javascript:(function(){document.body.innerHTML = document.body.innerHTML.replace('{id}', 'com.numbers.way.brazil')})()")
                 web.loadUrl("javascript:(function(){document.body.innerHTML = document.body.innerHTML.replace('{id}', 'com.numbers.way.brazil')})()")
                 web.loadUrl("javascript:(function(){document.body.innerHTML = document.body.innerHTML.replace('{id}', 'com.numbers.way.brazil')})()")
-                
+
             }
 
             //завершение заргузки страницы
